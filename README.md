@@ -2,7 +2,7 @@
 
 Reproducible analysis code and notebook to generate tables and figures for a study of AANS podium abstract publication outcomes comparing the 2010 and 2019 annual meetings (podium-to-print publication).
 
-This repository is intended to support a manuscript submission (target journal: Journal of Neurosurgery).
+This repository is intended to support a manuscript submission.
 
 ## Contents
 
