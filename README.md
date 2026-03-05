@@ -1,5 +1,5 @@
 # AANS abstract publication analysis (2010 vs 2019)
-
+![KM Curves (2010 vs 2019).](/AANS_github0.png)
 ## Key result
 
 ![Medical-student first authorship increased while podium-to-print publication declined (2010 vs 2019).](/AANS_github1.png)
