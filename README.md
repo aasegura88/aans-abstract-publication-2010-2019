@@ -20,4 +20,3 @@ Set the input path via environment variable:
 ```bash
 export AANS_DATA_PATH="/path/to/AANScleanedv3 JMR 2.25.csv"
 
-exit
