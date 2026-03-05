@@ -1,23 +1,21 @@
-# Data + outputs (do not commit)
-data/
-outputs/
+# Do not commit raw/derived datasets
+data/*.csv
+data/*.tsv
+data/*.xlsx
+data/*.rds
+data/*.qs
+data/*.zip
 
-# Notebooks
+# Notebook junk
 .ipynb_checkpoints/
 
-# R
+# R session files
 .Rhistory
 .RData
 .Rproj.user/
 
-# OS/editor
+# OS/editor junk
 .DS_Store
 Thumbs.db
 *.swp
 *.tmp
-
-# Optional: if you export lots of figures/tables locally
-# *.pdf
-# *.png
-# *.html
-# *.csv
