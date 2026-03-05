@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it."
+title: "AANS podium abstract publication analysis (2010 vs 2019)"
+authors:
+  - family-names: Segura
+    given-names: Aaron C.
+date-released: 2026-03-05
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/aasegura88/aans-abstract-publication-2010-2019"
+keywords:
+  - neurosurgery
+  - AANS
+  - conference abstracts
+  - podium-to-print
+  - bibliometrics
+  - reproducible research
