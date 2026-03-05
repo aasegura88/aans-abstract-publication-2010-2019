@@ -7,8 +7,9 @@
 Time-to-publication distribution; complements the binary 36-month endpoint below.
 
 ## Key result
-
-![Medical-student first authorship increased while podium-to-print publication declined (2010 vs 2019).](/AANS_github1.png)
+<p align="center">
+  <img src="/AANS_github1.png" alt="Medical-student first authorship increased while podium-to-print publication declined (2010 vs 2019)." width="100%">
+</p>
 
 - Medical-student first authorship: 6.6% (9/136) in 2010 vs 47.5% (103/217) in 2019.
 - Publication within 36 months: 57.0% (77/135) in 2010 vs 41.9% (91/217) in 2019.
